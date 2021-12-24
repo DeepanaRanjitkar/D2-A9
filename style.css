@@ -1,0 +1,15 @@
+.top-wrapper{
+    background-color: green;
+    height: 100px;
+    width: 100%;
+}
+.middle-wrapper{
+    background-color:lightblue;
+    height: 60vh;
+    width: 100%;
+}
+.bottom-wrapper{
+    background-color:brown;
+    height:100px;
+    width: 100%;
+}
